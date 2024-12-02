@@ -1,18 +1,10 @@
-﻿# Sensitive-Data-Security
+# Sensitive-Data-Security
 
 https://github.com/gtechsltn/Sensitive-Data-Security
 
 ## Simple FastFood Order Using .NET 8, Dapper, Store Procedure, AES and Serilog
 
 https://github.com/gtechsltn/mvc-fastfood-order-net8-Dapper-Serialog
-
-https://github.com/technoclem/mvc-fastfood-order-net8-Dapper-Serialog
-
-https://fastfooddapper.runasp.net/
-
-https://github.com/gtechsltn/FastFood
-
-https://manhng.runasp.net/
 
 ## How to Encrypt Sensitive Data Before Storage in .NET 8: A Step-by-Step Approach
 
