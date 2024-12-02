@@ -8,6 +8,10 @@ https://github.com/gtechsltn/mvc-fastfood-order-net8-Dapper-Serialog
 
 https://github.com/technoclem/mvc-fastfood-order-net8-Dapper-Serialog
 
+https://fastfooddapper.runasp.net/
+
+https://manhng.runasp.net/
+
 ## How to Encrypt Sensitive Data Before Storage in .NET 8: A Step-by-Step Approach
 
 In today’s digital landscape, protecting sensitive data is paramount. This article explores a step-by-step approach to implementing encryption at rest in .NET 8 applications. Learn how to safeguard your database and persistent storage by encrypting sensitive information before it’s stored. We’ll cover essential techniques, best practices, and code examples to help developers enhance data security and comply with industry standards. Secure your applications today!.`
