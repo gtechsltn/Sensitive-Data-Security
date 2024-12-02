@@ -10,6 +10,8 @@ https://github.com/technoclem/mvc-fastfood-order-net8-Dapper-Serialog
 
 https://fastfooddapper.runasp.net/
 
+https://github.com/gtechsltn/FastFood
+
 https://manhng.runasp.net/
 
 ## How to Encrypt Sensitive Data Before Storage in .NET 8: A Step-by-Step Approach
